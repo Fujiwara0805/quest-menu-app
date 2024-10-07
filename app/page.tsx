@@ -167,11 +167,11 @@ export default function Home() {
             <h3 className="text-2xl shadow-text text-left space-y-4 pl-8">
               <p className="relative">
                 <span className="absolute -left-6">・</span>
-                それぞれのプロジェクトに難易度（５段階評価）を設け、難易度が高いプロジェクトほど成果報酬⤴️
+                ①ゲーム要素を選択→②地域特性や業務・ボランティア内容に応じたミッションを企画→③クエストへ昇華
               </p>
               <p className="relative">
                 <span className="absolute -left-6">・</span>
-                地域特性や業務・ボランティア内容に応じたミッションを企画し、クエストへ昇華させます。
+                プロジェクトに難易度（５段階評価）を設け、難易度が高いプロジェクトほど成果報酬⤴️
               </p>
               <p className="relative">
                 <span className="absolute -left-6 ">※</span>
@@ -213,10 +213,10 @@ export default function Home() {
 
           <div className="bg-black bg-opacity-70 rounded-lg p-6 mt-10 text-center">
             <h3 className="text-2xl font-semibold mb-4 shadow-text">
-              参考事例：さっぽろごみ発見クエスト
+              参考事例：さっぽろごみ発見クエスト(株式会社esエンターテイメント)
             </h3>
             <p className="text-lg">
-              札幌市で行われたイベントで、ごみを拾ってコインをGETし、飲食店をお得に利用できるシステムを導入しました。
+              札幌市で行われたイベントで、ごみを拾ってコインをGETし、飲食店をお得に利用できるシステムを導入。
               <br />
               1ヶ月間で延べ2,934人が参加し、11,086個のごみが回収されました。
             </p>
